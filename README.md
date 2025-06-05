@@ -1,5 +1,5 @@
 
-# 🌱 BorrowWorld - Community Lending & Borrowing Platform
+# 🌱 BorrowWorld - Community Lending & Borrowing 
 
 **BorrowWorld** is a community-first, frontend web application where users can lend and borrow items from each other — reducing waste, promoting sustainability, and building trust among peers. Built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**, the platform features a responsive and modern UI designed for smooth user experience.
 
